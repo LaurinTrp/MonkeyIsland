@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="MonkeyIsland 2.0"/>
+	<classpathentry kind="src" path="New"/>
+	<classpathentry kind="src" path="Old"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/laurin/Laurin Festplatte/Programmieren/Java/APIs/lwjgl/lwjgl-2.9.3/jar/jinput.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
